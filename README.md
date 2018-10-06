@@ -7,6 +7,6 @@ The project implements this algorithm from scratch and applies it on three datas
 ![alt text](https://github.com/adityajoshi1994/K-Means_and_EM_Algorithm/blob/master/KMeanspic.png)
 
 <h2> EM Algorithm</h2>
-The Expectation-Maximization (EM) algorithm is a way to find maximum-likelihood estimates for model parameters when your data is incomplete, has missing data points, or has unobserved (hidden) latent variables. You can find the implementation for this algorithm <a href="https://github.com/adityajoshi1994/K-Means_and_EM_Algorithm/blob/master/EM%20algorithm.py"> here </a>
+The Expectation-Maximization (EM) algorithm is a way to find maximum-likelihood estimates for model parameters when your data is incomplete, has missing data points, or has unobserved (hidden) latent variables. You can find the implementation for this algorithm <a href="https://github.com/adityajoshi1994/K-Means_and_EM_Algorithm/blob/master/EM%20algorithm.py"> here </a> <br/>
 ![alt text](https://github.com/adityajoshi1994/K-Means_and_EM_Algorithm/blob/master/EMpic.png)
 
